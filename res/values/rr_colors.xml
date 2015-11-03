@@ -105,4 +105,7 @@
     <color name="expanded_button_color_normal">#4CAF50</color>
     <color name="expanded_button_color_close">#F44336</color>
 
+    <!-- Storage Summary Title -->
+    <color name="storage_summary_title_color">#ff607d8b</color>
+
 </resources>
